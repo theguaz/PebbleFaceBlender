@@ -12,7 +12,7 @@ $( document ).ready(function() {
    var widthCanvas = 700;
    var heightCanvas = 394;
    var canMove = true;
-   var maxQuestions = 4;
+   var maxQuestions = 10;
    
    if(isMobile){  
     widthCanvas = 394;
